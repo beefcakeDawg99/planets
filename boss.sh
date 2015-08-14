@@ -8,4 +8,4 @@ cd terminate
 echo "Gavin is meh" > gavin.txt
 rm gavin.txt
 cd ..
-
+rm -rf terminate
